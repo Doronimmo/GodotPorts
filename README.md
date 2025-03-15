@@ -1,2 +1,2 @@
 # GodotPorts
-How to port Godot games to Portmaster
+How to port Godot games to Portmaster, read wiki.
